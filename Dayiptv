@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR:Bein News" tvg-logo="http://logo.ndasat.com/iptv/images/25154_110.png" group-title="{BOUQUET_NAME}",AR:Bein News
+#EXTINF:-1 tvg-name="AR:Bein KAFIH" tvg-logo="http://logo.ndasat.com/iptv/images/25154_110.png" group-title="{BOUQUET_NAME}",AR:Bein News
 http://212.8.253.47:88/555155895930609/555155895930609/68
 #EXTINF:-1 tvg-name="AR:Bein Sports" tvg-logo="http://logo.ndasat.com/iptv/images/71768_beinsports.jpg" group-title="{BOUQUET_NAME}",AR:Bein Sports
 http://212.8.253.47:88/555155895930609/555155895930609/1223
