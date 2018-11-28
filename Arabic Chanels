@@ -5,8 +5,6 @@ http://212.8.253.47:88/555155895930609/555155895930609/1714
 http://212.8.253.47:88/555155895930609/555155895930609/1713
 #EXTINF:-1 tvg-name="MBC3-HD" tvg-logo="http://logo.ndasat.com/iptv/images/71810_mbc3hd.png" group-title="{BOUQUET_NAME}",MBC3-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1712
-#EXTINF:-1 tvg-name="MBC4-HD" tvg-logo="http://logo.ndasat.com/iptv/images/29177_mbc4hd.png" group-title="{BOUQUET_NAME}",MBC4-HD
-http://212.8.253.47:88/555155895930609/555155895930609/1711
 #EXTINF:-1 tvg-name="MBC_Bollywood_HD" tvg-logo="http://logo.ndasat.com/iptv/images/17179_euronews.png" group-title="{BOUQUET_NAME}",MBC_Bollywood_HD
 http://212.8.253.47:88/555155895930609/555155895930609/872
 #EXTINF:-1 tvg-name="MBC-Action HD" tvg-logo="http://logo.ndasat.com/iptv/images/68617_mbcactionhd.png" group-title="{BOUQUET_NAME}",MBC-Action HD
