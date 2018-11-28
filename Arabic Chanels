@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KAF1-HD" tvg-logo="http://logo.ndasat.com/iptv/images/83415_mbchd.png" group-title="{BOUQUET_NAME}",MBC1-HD
+#EXTINF:-1 tvg-name="KAF1-HD" tvg-logo="http://logo.ndasat.com/iptv/images/83415_mbchd.png" group-title="{BOUQUET_NAME}",KAF1-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1714
-#EXTINF:-1 tvg-name="KAF2-HD" tvg-logo="http://logo.ndasat.com/iptv/images/86659_mbc2hd.jpg" group-title="{BOUQUET_NAME}",MBC2-HD
+#EXTINF:-1 tvg-name="KAF2-HD" tvg-logo="http://logo.ndasat.com/iptv/images/86659_mbc2hd.jpg" group-title="{BOUQUET_NAME}",KAF2-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1713
-#EXTINF:-1 tvg-name="KAF3-HD" tvg-logo="http://logo.ndasat.com/iptv/images/71810_mbc3hd.png" group-title="{BOUQUET_NAME}",MBC3-HD
+#EXTINF:-1 tvg-name="KAF3-HD" tvg-logo="http://logo.ndasat.com/iptv/images/71810_mbc3hd.png" group-title="{BOUQUET_NAME}",KAF3-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1712
-#EXTINF:-1 tvg-name="KAF4-HD" tvg-logo="http://logo.ndasat.com/iptv/images/29177_mbc4hd.png" group-title="{BOUQUET_NAME}",MBC4-HD
+#EXTINF:-1 tvg-name="KAF4-HD" tvg-logo="http://logo.ndasat.com/iptv/images/29177_mbc4hd.png" group-title="{BOUQUET_NAME}",KAF4-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1711
 #EXTINF:-1 tvg-name="MBC_Bollywood_HD" tvg-logo="http://logo.ndasat.com/iptv/images/17179_euronews.png" group-title="{BOUQUET_NAME}",MBC_Bollywood_HD
 http://212.8.253.47:88/555155895930609/555155895930609/872
