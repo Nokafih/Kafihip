@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KAF1-HD" tvg-logo="http://logo.ndasat.com/iptv/images/83415_mbchd.png" group-title="{BOUQUET_NAME}",KAF1-HD
+#EXTINF:-1 tvg-name="KAF1-HD" tvg-logo="http://logo.ndasat.com/iptv/images/83415_mbchd.png" group-title="{BOUQUET_NAME}",KAFIH1-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1714
 #EXTINF:-1 tvg-name="KAF2-HD" tvg-logo="http://logo.ndasat.com/iptv/images/86659_mbc2hd.jpg" group-title="{BOUQUET_NAME}",KAF2-HD
 http://212.8.253.47:88/555155895930609/555155895930609/1713
